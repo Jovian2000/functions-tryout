@@ -48,3 +48,8 @@ def namenEnLeeftijd():
             break
         print("Hallo", naam, ", je leeftijd is", leeftijd, "jaar")
 ```
+## F1.5.01.L4 - Fibonacci reeks
+Toegevoegd
+
+## F1.5.01.O2 - Game over! - Retry?
+toegevoegd
